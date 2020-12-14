@@ -1,4 +1,4 @@
-# Smart-Dustbin - integrated application on Arduino IDE using GSM module
+# Smart-Dustbin - integrated application on Arduino IDE using GSM 
 #include <SoftwareSerial.h>
 #include <VarSpeedServo2.h>
 #include <SharpDistSensor.h>
